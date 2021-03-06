@@ -1,4 +1,9 @@
 hola, mi nombre es christian andrey velandia caballero
 
 
-yo tengo 20 años, y actualmente me encuentro estudiando
+yo tengo 20 años, y actualmente me encuentro estudiando 
+ingenieria de sistemas en la universidad cooperativa de 
+colombia
+
+
+bye.
