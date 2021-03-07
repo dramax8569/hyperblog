@@ -14,3 +14,6 @@ git rm --force
 
 
 este comando borrara el commit, no aparecera ni en git ni en el disco duro
+
+probando el comando git rm --cached, este comando borra lo que hay en el 
+area de Staging 
