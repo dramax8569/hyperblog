@@ -5,11 +5,10 @@ yo tengo 20 años, y actualmente me encuentro estudiando
 ingenieria de sistemas en la universidad cooperativa de 
 colombia, mis hobbies son estudiar y jugar videojuegos.
 
-andrey tiene 100 años y llego a romperl
+andrey tiene 100 años, es una persona que contribuye a 
+este proyecto open source y llego a romperla
 
 bye.
-
-probando el segundo comando
 
 git rm --force 
 
