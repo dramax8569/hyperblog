@@ -10,7 +10,7 @@ este proyecto open source y llego a romperla
 
 bye.
 
-probando el segundo comando
+probando..
 
 git rm --force 
 
