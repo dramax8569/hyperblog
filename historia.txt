@@ -8,7 +8,7 @@ colombia, mis hobbies son estudiar y jugar videojuegos.
 
 bye.
 
-probando el segundo comando
+pro
 
 git rm --force 
 
